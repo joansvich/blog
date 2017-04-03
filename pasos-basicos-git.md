@@ -41,8 +41,14 @@ Git se divide en tres partes: Directorio de trabajo, Index y Head.
 > Una de las ventajas de Git es la posibilidad de crear ramas (o branch) para poder probar esas versiones _beta_ de nuestro proyecto sin poner en riesgo nuestro código fuente base.  
 - Para crear una rama tendremos que usar la comanda **git branch nombreRama**. Si queremos directamente crear la rama y situarnos en ella podemos usar la comanda **git checkout -b nombreRama**.  
 - Para cambiar de ramas usamos la comanda **git checkout nombreRama**.  
-- Si queremos borrar una rama usaremos la comanda **git branch -d nombreRama**.
+- Si queremos borrar una rama usaremos la comanda **git branch -d nombreRama**.  
+- Por defecto, una rama nueva no la tendremos disponible en nuestro git a no ser que la subamos con la comanda **git push origin nombreRama**.
 
+
+> Si hemos estado probando en una rama una versión del proyecto que nos ha gustado como funciona, podemos fusionar las ramas para que los archivos que teníamos en la rama _beta_ por ejemplo, las tengamos en la master y así seguir con la dirección del proyecto.
+- Para actualizar nuestro repositorio a la versión más reciente usaremos la comanda **git pull**.  
+- Si queremos fusionar una rama, nos situamos en la rama master y usamos la comanda **git merge ramaAFusionar** OJO: tenemos que tener en cuenta que a veces git no será capaz de fusionar los archivos y se generarán conflictos, nosotros seremos los encargados de solucionarlos manualmente y luego añadirlos a la rama nueva.  
+- Si queremos visualizar los cambios antes de fusionar, podemos usar la comanda **git ramaOrigen ramaDestino**.
 
 ---
 Al principio cuesta un poco el tema de las comandas, pero a la que vas cogiendo la práctica te darás cuenta que te salen automáticas.
