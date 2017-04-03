@@ -19,9 +19,9 @@ En mi caso voy a usar Github.
 
 
 Llegados a este punto, tenemos que saber una cosa muy importante sobre el funcionamiento de Git:
-Git se divide en tres partes: Directorio de trabajo, Index y Head. 
--- **Directorio de trabajo**: donde tenemos los archivos con los que estamos trabajando.
--- **Index**: es la zona intermedia donde podemos hacer commits para posteriormente subirlo al head.
+Git se divide en tres partes: Directorio de trabajo, Index y Head.  
+-- **Directorio de trabajo**: donde tenemos los archivos con los que estamos trabajando.  
+-- **Index**: es la zona intermedia donde podemos hacer commits para posteriormente subirlo al head.  
 -- **Head**: es la última zona donde tendrás tus archivos preparados para ser enviados a tu branch.
 
 
