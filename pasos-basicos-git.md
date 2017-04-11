@@ -15,7 +15,7 @@ En mi caso voy a usar Github.
 > En Github podemos usar tanto la interfaz gráfica para hacer todos los cambios como la consola de nuestro sistema operativo. En mi caso me gusta más usar la consola ya que voy más rápido, pero eso es una cuestión de gustos y costumbres.
 
 
-- Para empezar a hacer cambios, tendremos que hacer un clonaje del repositorio (si tenemos creado uno) a nuestro sistema local. En este caso lo haremos con la comanda **git clone rutaDirectorio
+- Para empezar a hacer cambios, tendremos que hacer un clonaje del repositorio (si tenemos creado uno) a nuestro sistema local. En este caso lo haremos con la comanda **git clone /rutaDirectorio**
 
 
 - Una comanda muy importante que tenemos que tener siempre en cuenta es la de **git status**. Gracias a esta comanda iremos viendo el estado de cómo tenemos nuestros archivos: en que rama estamos, si los tenemos pendientes de subir, etc.
