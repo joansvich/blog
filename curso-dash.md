@@ -16,3 +16,11 @@ En el primer proyecto nos piden que creemos una página web nuestra. Como es el 
 - **Fase 3**: En la tercera y última fase para el primer proyecto nos van a enseñar a añadir una imagen como logo, cómo añadir una imagen de fondo y finalmente darle estilo a la web. Nos hemos desenvolupado sin problemas en esta fase y al final nos ha quedado un resultado muy bonito y vistoso con "4" líneas de código. Muy interesante.  
 Aquí os dejo una foto con el resultado final y el código que hemos escrito:
 ![Resultado proyecto 1](http://i66.tinypic.com/jze5o4.jpg)
+
+
+#### Proyecto 2 - Construir un blog responsive
+Aquí nos enseñaran a construir una página web de tipo blog que tambien esté adaptada para teléfonos moviles.
+- **Fase 1**: En la primera fase nos piden añadir una estructura básica con su doctype, head y body. También añadimos contenido dentro del body. No encontramos dificultad ya que son cosas vistas en los anteriores cursos.
+
+
+- **Fase 2**: 
