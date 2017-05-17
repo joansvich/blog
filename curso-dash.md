@@ -23,4 +23,7 @@ Aquí nos enseñaran a construir una página web de tipo blog que tambien esté 
 - **Fase 1**: En la primera fase nos piden añadir una estructura básica con su doctype, head y body. También añadimos contenido dentro del body. No encontramos dificultad ya que son cosas vistas en los anteriores cursos.
 
 
-- **Fase 2**: 
+- **Fase 2**: En la segunda fase vamos a introducir el css. En este caso nos enseña cómo utilizar una hoja de estilos css externa para nuestra página web. Profundizamos un poco en tema de css, sobre cambiar colores, dar formato, etc. No encontramos mucha dificultad.
+
+
+- **Fase 3**: 
