@@ -26,4 +26,21 @@ Aquí nos enseñaran a construir una página web de tipo blog que tambien esté 
 - **Fase 2**: En la segunda fase vamos a introducir el css. En este caso nos enseña cómo utilizar una hoja de estilos css externa para nuestra página web. Profundizamos un poco en tema de css, sobre cambiar colores, dar formato, etc. No encontramos mucha dificultad.
 
 
-- **Fase 3**: 
+- **Fase 3**: En la tercera fase vamos a dar formato a la web mediante css y veremos una cosa nueva que no habíamos visto anteriormente: el @media. Éste atributo se usa en el css para decir qué código de css se usará cuando estamos en la versión móvil. Es muy cómodo aprender con Dash ya que nos proporciona un botón en la parte superior derecha para que vayamos intercalando de resolución. Esto juntamente con los ejemplos nos proporciona mucha ayuda a la hora de aprender. Y finalmente hemos empezado a tocar código javascript a nivel muy básico pero suficiente para irnos familiarizando con él.
+
+
+- **Fase 4**: Nos da un repaso general y ya damos por finalizado el proyecto.  
+
+
+#### Proyecto 3 - Pequeña web de negocios
+En este proyecto vamos a hacer una pequeña web para una empresa.  
+- **Fase 1**: En esta primera fase nos enseña a usar la etiqueta div y ir posicionando todo en la web para que quede bien visualmente. El nivel se complica un poco más ya que nos va pidiendo código que hemos aprendido en los proyectos anteriores directamente sin volver a explicarlo. Si no nos acordamos de alguna sintaxis en concreto siempre tendremos arriba el botón "Skills" donde podremos encontrar todo lo aprendido anteriormente de manera resumida.
+
+- **Fase 2**: Aquí seguimos dando forma a la web y incorporamos un elemento nuevo llamado \<span\> el cual nos permite añadir estilo al texto. También nos muestra cómo jugar con las transparencias para los colores de fondo. No encontramos mucha dificultad.
+
+- **Fase 3**: En esta última fase optimizamos la página web para teléfonos móviles. Gracias al botón para poder ir alternando la vista nos será mucho más fácil para ir viendo el resultado final.
+
+
+Y hasta aquí llegamos con Dash. La verdad es una plataforma que me ha gustado mucho ya que funciona muy bien y nos permite aprender fácilmente todos los conceptos. Lo seguiré usando en un futuro para ampliar mis conocimientos.
+- **Fase 1**: En esta primera fase nos enseña a usar la etiqueta div y ir posicionando todo en la web para que quede bien visualmente. El nivel se complica un poco más ya que nos va pidiendo código que hemos aprendido en los proyectos anteriores directamente sin volver a explicarlo. Si no nos acordamos de alguna sintaxis en concreto siempre tendremos arriba el botón "Skills" donde podremos encontrar todo lo aprendido anteriormente de manera resumida.
+- **Fase 1**: En esta primera fase nos enseña a usar la etiqueta div y ir posicionando todo en la web para que quede bien visualmente. El nivel se complica un poco más ya que nos va pidiendo código que hemos aprendido en los proyectos anteriores directamente sin volver a explicarlo. Si no nos acordamos de alguna sintaxis en concreto siempre tendremos arriba el botón "Skills" donde podremos encontrar todo lo aprendido anteriormente de manera resumida.
