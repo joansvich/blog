@@ -1,5 +1,5 @@
 ## Cómo empezar con Git
-
+[Aprende Javascript con mentoringjs](http://mentoringjs.com/ "Aprende Javascript con mentoringjs")
 
 ### En este documento os intentaré explicar resumidamente lo básico que tenemos que saber para empezar a usar Git
 
