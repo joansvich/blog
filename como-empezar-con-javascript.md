@@ -1,5 +1,5 @@
 ## Cómo empezar con javascript
-
+[Aprende Javascript con mentoringjs](http://mentoringjs.com/ "Aprende Javascript con mentoringjs")
 
 ### En este documento os intentaré explicar los pasos básicos que deberéis tomar y saber para introduciros en javascript
 
