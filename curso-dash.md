@@ -1,5 +1,5 @@
 ## Curso Dash HTML5 y CSS3
-
+[Aprende Javascript con mentoringjs - Pretraining Step 3](http://mentoringjs.com/ "Aprende Javascript con mentoringjs - Pretraining Step 3")
 
 ### En este artículo veremos mi experiencia con el curso de dash realizado sobre crear páginas web en html y css.
 
